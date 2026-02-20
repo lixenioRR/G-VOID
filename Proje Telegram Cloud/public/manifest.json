@@ -1,0 +1,21 @@
+{
+    "name": "G-VOID",
+    "short_name": "GVOID",
+    "description": "Anti-Gravity Puzzle Runner on Telegram",
+    "start_url": "/",
+    "display": "standalone",
+    "background_color": "#050505",
+    "theme_color": "#36E27B",
+    "icons": [
+        {
+            "src": "/icon-192.png",
+            "sizes": "192x192",
+            "type": "image/png"
+        },
+        {
+            "src": "/icon-512.png",
+            "sizes": "512x512",
+            "type": "image/png"
+        }
+    ]
+}

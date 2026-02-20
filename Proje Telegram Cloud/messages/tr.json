@@ -1,0 +1,130 @@
+{
+    "meta": {
+        "title": "G-VOID",
+        "description": "Anti-Yerçekimi Koşucu"
+    },
+    "menu": {
+        "play": "OYNA",
+        "leaderboard": "SKOR TABLOSU",
+        "shop": "MAĞAZA",
+        "settings": "AYARLAR",
+        "missions": "GÖREVLER",
+        "motto": "Yerçekimi bir seçimdir. Hayatta kalmak bir beceridir.",
+        "bestScore": "EN İYİ SKOR",
+        "welcome": "Hoşgeldin, {name}!",
+        "guest": "Misafir",
+        "signOut": "Çıkış Yap",
+        "referral": {
+            "button": "ARKADAŞINI DAVET ET → +500 COIN",
+            "code": "Kodun: {code}",
+            "description": "Her arkadaş için +500 Void Coin",
+            "copied": "Link kopyalandı! ✓",
+            "failed": "Paylaşılamadı"
+        }
+    },
+    "hud": {
+        "score": "SKOR",
+        "coins": "COIN",
+        "pause": "DURAKLAT",
+        "tiers": {
+            "easy": "KOLAY",
+            "normal": "NORMAL",
+            "fast": "HIZ",
+            "hyper": "HYPER",
+            "void": "⚠ VOID"
+        }
+    },
+    "gameOver": {
+        "title": "VOID BİTTİ",
+        "score": "SKOR",
+        "bestScore": "EN İYİ",
+        "continueAd": "DEVAM İÇİN REKLAM İZLE",
+        "retry": "TEKRAR DENE",
+        "share": "SKORU PAYLAŞ",
+        "menu": "ANA MENÜ"
+    },
+    "shop": {
+        "title": "VOID MAĞAZA",
+        "skins": "GÖRÜNÜMLER",
+        "trails": "İZLER",
+        "buy": "SATIN AL",
+        "equip": "GİY",
+        "equipped": "GİYİLİ",
+        "locked": "KİLİTLİ",
+        "insufficientCoins": "Yeterli Void Coin yok"
+    },
+    "leaderboard": {
+        "title": "SKOR TABLOSU",
+        "weekly": "HAFTALIK",
+        "allTime": "TÜM ZAMANLAR",
+        "friends": "ARKADAŞLAR",
+        "rank": "SIRA",
+        "player": "OYUNCU",
+        "score": "SKOR",
+        "empty": "Henüz skor yok. İlk sen ol!",
+        "you": "SEN"
+    },
+    "referral": {
+        "title": "DAVET ET & KAZAN",
+        "description": "Bir arkadaşını davet et, 500 Void Coin kazan!",
+        "button": "ARKADAŞI DAVET ET",
+        "copied": "Bağlantı kopyalandı!"
+    },
+    "settings": {
+        "title": "AYARLAR",
+        "language": "DİL",
+        "sound": "Ses",
+        "haptic": "Titreşim",
+        "on": "AÇIK",
+        "off": "KAPALI",
+        "version": "G-VOID v0.1.0 — SİBER TAKTİK KOŞUCU"
+    },
+    "login": {
+        "title": "Anti-Yerçekimi Koşucu",
+        "welcome": "Hoş Geldin, Agent",
+        "subtitle": "Giriş yap, rekorlarını kaydet ve ödüller kazan",
+        "bonus": "İLK GİRİŞ BONUSU: +200 VOID COIN",
+        "googleButton": "Google ile Giriş Yap",
+        "or": "VEYA",
+        "guestButton": "Misafir Olarak Devam Et",
+        "guestNote": "Misafir modunda skorlar kaydedilmez"
+    },
+    "missions": {
+        "title": "GÜNLÜK GÖREVLER",
+        "subtitle": "Gece yarısı yenilenir",
+        "completed": "tamamlandı",
+        "of": "/",
+        "claim": "AL",
+        "done": "✓ TAMAM",
+        "allComplete": "🏆 Tüm görevler tamamlandı!",
+        "allCompleteNote": "Gece yarısı yeni görevler gelecek",
+        "m_play_today": "🎮 Bugün Oyna",
+        "m_play_today_desc": "Bir oyun oyna",
+        "m_score_25": "⚡ Hızlı Başlangıç",
+        "m_score_25_desc": "25 puana ulaş",
+        "m_score_50": "🎯 Skor Şampiyonu",
+        "m_score_50_desc": "50 puana ulaş",
+        "m_score_100": "💯 Skor Ustası",
+        "m_score_100_desc": "100 puana ulaş",
+        "m_reach_hyper": "🔥 HYPER Modu",
+        "m_reach_hyper_desc": "HYPER hızına ulaş (50 puan)",
+        "m_play_3_times": "🔄 Israr Et",
+        "m_play_3_times_desc": "3 kez oyna",
+        "m_beat_record": "🏆 Rekoru Kır",
+        "m_beat_record_desc": "Kendi rekorunu geç"
+    },
+    "skins": {
+        "void-agent": "VOID AJAN",
+        "neon-plasma": "NEON PLAZMA",
+        "shadow-pulse": "GÖLGE NABIZ",
+        "crimson-core": "KIRMIZI ÖZ",
+        "aurora": "AURORA"
+    },
+    "trails": {
+        "default": "VARSAYILAN",
+        "electric-purple": "ELEKTRİK MOR",
+        "plasma-blue": "PLAZMA MAVİ",
+        "inferno": "ATEŞ",
+        "galaxy": "GALAKSİ"
+    }
+}

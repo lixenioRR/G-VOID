@@ -1,0 +1,130 @@
+{
+    "meta": {
+        "title": "G-VOID",
+        "description": "Anti-Gravity Puzzle Runner"
+    },
+    "menu": {
+        "play": "PLAY",
+        "leaderboard": "LEADERBOARD",
+        "shop": "SHOP",
+        "settings": "SETTINGS",
+        "missions": "MISSIONS",
+        "motto": "Gravity is a choice. Survival is a skill.",
+        "bestScore": "BEST SCORE",
+        "welcome": "Welcome, {name}!",
+        "guest": "Guest",
+        "signOut": "Sign Out",
+        "referral": {
+            "button": "INVITE FRIEND → +500 COIN",
+            "code": "Your code: {code}",
+            "description": "+500 Void Coin per friend",
+            "copied": "Link copied! ✓",
+            "failed": "Could not share"
+        }
+    },
+    "hud": {
+        "score": "SCORE",
+        "coins": "COINS",
+        "pause": "PAUSE",
+        "tiers": {
+            "easy": "EASY",
+            "normal": "NORMAL",
+            "fast": "FAST",
+            "hyper": "HYPER",
+            "void": "⚠ VOID"
+        }
+    },
+    "gameOver": {
+        "title": "VOID OUT",
+        "score": "SCORE",
+        "bestScore": "BEST",
+        "continueAd": "WATCH AD TO CONTINUE",
+        "retry": "TRY AGAIN",
+        "share": "SHARE SCORE",
+        "menu": "MAIN MENU"
+    },
+    "shop": {
+        "title": "VOID SHOP",
+        "skins": "SKINS",
+        "trails": "TRAILS",
+        "buy": "BUY",
+        "equip": "EQUIP",
+        "equipped": "EQUIPPED",
+        "locked": "LOCKED",
+        "insufficientCoins": "Not enough Void Coins"
+    },
+    "leaderboard": {
+        "title": "LEADERBOARD",
+        "weekly": "WEEKLY",
+        "allTime": "ALL TIME",
+        "friends": "FRIENDS",
+        "rank": "RANK",
+        "player": "PLAYER",
+        "score": "SCORE",
+        "empty": "No scores yet. Be the first!",
+        "you": "YOU"
+    },
+    "referral": {
+        "title": "INVITE & EARN",
+        "description": "Invite a friend and earn 500 Void Coins!",
+        "button": "INVITE FRIEND",
+        "copied": "Link copied!"
+    },
+    "settings": {
+        "title": "SETTINGS",
+        "language": "LANGUAGE",
+        "sound": "Sound",
+        "haptic": "Haptic Feedback",
+        "on": "ON",
+        "off": "OFF",
+        "version": "G-VOID v0.1.0 — CYBER TACTICAL RUNNER"
+    },
+    "login": {
+        "title": "Anti-Gravity Runner",
+        "welcome": "Welcome, Agent",
+        "subtitle": "Sign in to save records and earn rewards",
+        "bonus": "FIRST LOGIN BONUS: +200 VOID COIN",
+        "googleButton": "Sign in with Google",
+        "or": "OR",
+        "guestButton": "Continue as Guest",
+        "guestNote": "Scores are not saved in guest mode"
+    },
+    "missions": {
+        "title": "DAILY MISSIONS",
+        "subtitle": "Resets at midnight",
+        "completed": "completed",
+        "of": "of",
+        "claim": "CLAIM",
+        "done": "✓ DONE",
+        "allComplete": "🏆 All missions complete!",
+        "allCompleteNote": "New missions at midnight",
+        "m_play_today": "🎮 Play Today",
+        "m_play_today_desc": "Play one game",
+        "m_score_25": "⚡ Quick Start",
+        "m_score_25_desc": "Reach 25 points",
+        "m_score_50": "🎯 Score Champion",
+        "m_score_50_desc": "Reach 50 points",
+        "m_score_100": "💯 Score Master",
+        "m_score_100_desc": "Reach 100 points",
+        "m_reach_hyper": "🔥 HYPER Mode",
+        "m_reach_hyper_desc": "Reach HYPER speed (50 pts)",
+        "m_play_3_times": "🔄 Persistence",
+        "m_play_3_times_desc": "Play 3 times",
+        "m_beat_record": "🏆 Break the Record",
+        "m_beat_record_desc": "Beat your own high score"
+    },
+    "skins": {
+        "void-agent": "VOID AGENT",
+        "neon-plasma": "NEON PLASMA",
+        "shadow-pulse": "SHADOW PULSE",
+        "crimson-core": "CRIMSON CORE",
+        "aurora": "AURORA"
+    },
+    "trails": {
+        "default": "DEFAULT",
+        "electric-purple": "ELECTRIC PURPLE",
+        "plasma-blue": "PLASMA BLUE",
+        "inferno": "INFERNO",
+        "galaxy": "GALAXY"
+    }
+}
